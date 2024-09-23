@@ -16,6 +16,7 @@ A student and a dabbler.
 
 ## 💻 Tools and Env
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hyprland-0081c6?style=for-the-badge&logo=hyprland&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ZSH-f15a24?style=for-the-badge&logo=zsh&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/neovim-5fb950?style=for-the-badge&logo=neovim&logoColor=white)
