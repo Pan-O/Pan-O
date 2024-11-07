@@ -41,6 +41,6 @@ sshconfig    🕓 19m   █▍░░░░░░░░░░░░░░░░�
 ## 📱 Reach me
 [📖 Blog](https://panp.cc "Blog")
  | 
-[📪 E-mail](mailto:cool.panjianhao@gmail.com)
+[📪 E-mail](mailto:me@panp.cc)
  | 
 [🔗 Person Space](https://luckier.top "Person Space")
