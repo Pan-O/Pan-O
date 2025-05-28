@@ -29,7 +29,9 @@ A student and a dabbler.
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/c62758feefdb58de7b433134a0ea9d41" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Java 🕓 1h12m █████████████████████▏░░░░░░░░░░░░ 62.2%
+CSS  🕓 42m   ████████████▍░░░░░░░░░░░░░░░░░░░░░ 36.6%
+XML  🕓 1m    ▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.2%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
