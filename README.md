@@ -29,11 +29,11 @@ A student and a dabbler.
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/c62758feefdb58de7b433134a0ea9d41" target="_blank">📊 Weekly development breakdown</a>
 ```text
-JavaScript 🕓 2h34m ███████████████▌░░░░░░░░░░░░ 55.6%
-TypeScript 🕓 59m   ██████░░░░░░░░░░░░░░░░░░░░░░ 21.5%
-C++        🕓 30m   ███░░░░░░░░░░░░░░░░░░░░░░░░░ 11.1%
-Markdown   🕓 30m   ███░░░░░░░░░░░░░░░░░░░░░░░░░ 10.9%
-Python     🕓 2m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.9%
+JavaScript 🕓 3h25m █████████████▏░░░░░░░░░░░░░░ 47.3%
+TypeScript 🕓 1h50m ███████░░░░░░░░░░░░░░░░░░░░░ 25.3%
+Markdown   🕓 45m   ██▉░░░░░░░░░░░░░░░░░░░░░░░░░ 10.4%
+C++        🕓 30m   █▉░░░░░░░░░░░░░░░░░░░░░░░░░░  7.0%
+Bash       🕓 23m   █▌░░░░░░░░░░░░░░░░░░░░░░░░░░  5.5%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
