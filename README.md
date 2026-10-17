@@ -29,11 +29,11 @@ A student and a dabbler.
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/c62758feefdb58de7b433134a0ea9d41" target="_blank">📊 Weekly development breakdown</a>
 ```text
-YAML       🕓 43m ████████████▋░░░░░░░░░░░░░░░░░ 42.4%
-JavaScript 🕓 20m █████▉░░░░░░░░░░░░░░░░░░░░░░░░ 19.9%
-Markdown   🕓 16m ████▉░░░░░░░░░░░░░░░░░░░░░░░░░ 16.4%
-Text       🕓 6m  █▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.6%
-Python     🕓 4m  █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.3%
+YAML       🕓 43m ███████████▉░░░░░░░░░░░░░░░░░░ 39.9%
+Markdown   🕓 34m █████████▋░░░░░░░░░░░░░░░░░░░░ 32.1%
+JavaScript 🕓 20m █████▋░░░░░░░░░░░░░░░░░░░░░░░░ 18.8%
+JSON       🕓 4m  █▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.9%
+Python     🕓 3m  ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
